@@ -1,0 +1,93 @@
+{
+    "1002": {
+        "name": "Dairy Milk",
+        "category": "Food",
+        "price": 100,
+        "quantity": 43
+    },
+    "1003": {
+        "name": "HP Laptop",
+        "category": "Electronics",
+        "price": 55000,
+        "quantity": 5
+    },
+    "1004": {
+        "name": "Parachute Oil",
+        "category": "Personal Care",
+        "price": 95,
+        "quantity": 20
+    },
+    "1005": {
+        "name": "Notebook",
+        "category": "Stationery",
+        "price": 45,
+        "quantity": 100
+    },
+    "1007": {
+        "name": "soap",
+        "category": "soap",
+        "price": 20,
+        "quantity": 20
+    },
+    "1006": {
+        "name": "Lays",
+        "category": "food",
+        "price": 20,
+        "quantity": 30
+    },
+    "1009": {
+        "name": "A4 Paper Pack",
+        "category": "Stationery",
+        "price": 120,
+        "quantity": 80
+    },
+    "1010": {
+        "name": "Samsung Galaxy Charger",
+        "category": "Electronics",
+        "price": 499,
+        "quantity": 25
+    },
+    "1011": {
+        "name": "Sugar 1kg",
+        "category": "Grocery",
+        "price": 55,
+        "quantity": 70
+    },
+    "1012": {
+        "name": "Toothpaste",
+        "category": "Personal Care",
+        "price": 90,
+        "quantity": 40
+    },
+    "1013": {
+        "name": "Rice 5kg",
+        "category": "Grocery",
+        "price": 350,
+        "quantity": 30
+    },
+    "1014": {
+        "name": "Pen Set",
+        "category": "Stationery",
+        "price": 60,
+        "quantity": 120
+    },
+    "1015": {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "price": 1500,
+        "quantity": 10
+    },
+    "1016": {
+        "name": "Shampoo",
+        "category": "Personal Care",
+        "price": 180,
+        "quantity": 35
+    },
+    "1017": {
+        "name": "Biscuits Pack",
+        "category": "Food",
+        "price": 30,
+        "quantity": 90
+    }
+
+}
